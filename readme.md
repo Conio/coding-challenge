@@ -2,7 +2,7 @@
 Crediamo che il codice valga più di mille parole. Per questo motivo abbiamo deciso di sostituire la classica lettera di pesentazione con una veloce coding challenge, studiata per non durare più di **due ore**.
 
 ## Scenario
-Conio rappresenta in modo fisico il portafoglio bitcoin, simulando un "salvadanaio" (visibile sul [nostro sito](https://www.conio.com)). L'obiettivo dell'esercizio è di scrivere un algoritmo in grado, nel modo più efficente possibile, di generare l'elenco di azioni necessarie a popolare ed aggiornare un portafoglio.
+Conio rappresenta in modo fisico il portafoglio bitcoin, simulando un "salvadanaio" (visibile sul [nostro sito](https://www.conioo.com)). L'obiettivo dell'esercizio è di scrivere un algoritmo in grado, nel modo più efficente possibile, di generare l'elenco di azioni necessarie a popolare ed aggiornare un portafoglio.
 
 ![Wallet update](sample.png "Wallet update")
 
@@ -85,6 +85,7 @@ dovrai scrivere una funzione in grado di generare un array di azioni ("aggiungi"
 ```
 
 ## Regole
-- Utilizza il linguaggio richiesto nella job opening (*esempio: Swift o Objective C per iOS Engineer, Python per Backend Engineer*).
+- Utilizza il linguaggio richiesto nella job opening (*esempio: switf o Objective-C per iOS Engineer, Python per Backend Engineer*).
+- Il portafoglio deve essere generato utilizzando il minor numero di monete possibile 
 - Scrivi sia il codice che i test.
 - Se hai delle note sull'esercizio stesso, non esitare a scriverle.
